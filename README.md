@@ -1,4 +1,4 @@
-# ATHENA FrontEnd (teste)
+# Projeto Athena (version.1.beta)
 
 Plataforma inicial de apoio à organização, rotina e recursos para pessoas neurodivergentes.
 
